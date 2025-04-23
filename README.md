@@ -34,14 +34,14 @@ GET /livros/busca?titulo=joao → Busca um livro por titulo
 ## Modelos:
 
  Livros
-
+```
 {
     titulo: String,
     autor: String,
     ano: String,
     genero: String,
 }
-
+```
 ## Licença
 
 Este projeto está licenciado sob a Licença MIT.  
